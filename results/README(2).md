@@ -1,15 +1,15 @@
 # AI-Powered Smart Interview Assessment
-
 ## Team Members
-| Name              | Roll Number   |                                                 
+| Name              | Roll Number   |
 | Krishna Chaitanya | 2420090077    |
 | Chaitanya Karthik | 2420090030    |
 | V.Sai Dhanush     | 2420030162    |
-
 ## Supervisor
 Dr. K. Swanthana
-
 ## Abstract
+46 minutes ago
+
+Revise abstract for AI-powered interview platform
 Recruitment is a time-consuming process for organizations due to 
 manual resume screening and interviews. This project proposes an AI-Powered Virtual Interview and Candidate Assessment Platform
 that automates the initial hiring process using Artificial Intelligence, 
@@ -29,7 +29,9 @@ containing resume matching score, technical performance,
 communication score, coding score, confidence analysis, and an overall 
 hiring recommendation for HR. The proposed system aims to provide 
 a faster, fairer, and more intelligent recruitment process.
+49 minutes ago
 
+Create readme.md
 ## Setup and Execution Instructions
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`
@@ -37,7 +39,6 @@ a faster, fairer, and more intelligent recruitment process.
 4. Configure the model environment (e.g., CodeLlama or other LLMs).
 5. Run the application: `streamlit run app.py`
 6. Upload candidate responses or code snippets and view the AI-generated assessment.
-
 ## Project Structure
 - `/src` — source code for interview analysis, scoring, and AI integration  
 - `/docs` — architecture diagrams, methodology, and project documentation  
@@ -45,6 +46,5 @@ a faster, fairer, and more intelligent recruitment process.
 - `/results` — outputs of assessments, evaluation metrics, and logs  
 - `/reports` — interim and final project reports  
 - `/README.md` — project overview, setup instructions, and current phase status  
-
 ## Current Phase Status
-Review 1 – in progress
+Review 1 – in progres
