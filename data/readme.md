@@ -1,4 +1,4 @@
-This file consist of data
+
 # AI-Powered Smart Interview Assessment
 
 ## Team Members
