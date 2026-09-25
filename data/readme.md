@@ -13,7 +13,7 @@ Dr. K. Swanthana
 
 ## Abstract
 Recruitment is a time-consuming process for organizations due to 
-manual resume screening and interviews. This project proposes an AIPowered Virtual Interview and Candidate Assessment Platform
+manual resume screening and interviews. This project proposes an AI-Powered Virtual Interview and Candidate Assessment Platform
 that automates the initial hiring process using Artificial Intelligence, 
 Natural Language Processing (NLP), and Speech Processing. The 
 system first analyses the candidate's resume and compares it with the 
