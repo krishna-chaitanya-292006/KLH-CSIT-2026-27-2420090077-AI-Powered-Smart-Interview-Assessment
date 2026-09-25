@@ -2,6 +2,7 @@
 
 ## Team Members
 | Name              | Roll Number   |
+| ----------------- | ------------- |
 | Krishna Chaitanya | 2420090077    |
 | Chaitanya Karthik | 2420090030    |
 | V.Sai Dhanush     | 2420030162    |
